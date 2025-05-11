@@ -1,0 +1,80 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/Kdkulakov/aivix-bench/edit/main/docs",
+          "editUrlLocalized": "https://github.com/Kdkulakov/aivix-bench/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/kulakov/SynologyDrive-Documents/SynologyDrive-Documents/SynologyDrive/OpenSource/aivix-docs/sidebars.js",
+          "contentPath": "/Users/kulakov/SynologyDrive-Documents/SynologyDrive-Documents/SynologyDrive/OpenSource/aivix-docs/docs",
+          "contentPathLocalized": "/Users/kulakov/SynologyDrive-Documents/SynologyDrive-Documents/SynologyDrive/OpenSource/aivix-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "getting-started",
+              "id": "getting-started",
+              "title": "Getting Started",
+              "description": "Welcome to Aivix Bench! This guide will help you get started with our voice-first AI agent builder.",
+              "source": "@site/docs/getting-started.md",
+              "sourceDirName": ".",
+              "slug": "/getting-started",
+              "permalink": "/docs/getting-started",
+              "draft": false,
+              "editUrl": "https://github.com/Kdkulakov/aivix-bench/edit/main/docs/getting-started.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "getting-started",
+                "label": "Getting Started",
+                "translatable": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

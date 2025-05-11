@@ -1,0 +1,73 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+You are working inside the `aivix-site` repository.
+
+This project is the official website, documentation portal, and blog for **Aivix Bench** — an open-source, voice-first AI agent builder that integrates with n8n and GPT-based agents. The site is intended for developers and AI builders who want to prototype, test, and share agent workflows by speaking, rather than coding.
+
+Your tasks as an AI assistant include:
+
+---
+
+## ✅ PROJECT GOALS
+
+1. 🎯 Present Aivix Bench to a global audience of developers
+2. 📚 Provide clear, well-organized documentation using Docusaurus
+3. 📝 Host a developer blog for updates, tutorials, and community stories
+4. 🤝 Make the repo easy to contribute to and well-structured
+5. 🌍 Be deployable via Vercel, and update automatically from GitHub
+
+---
+
+## 🔧 TECH STACK
+
+- `Next.js` (app directory or classic pages)
+- `Tailwind CSS` + `shadcn/ui`
+- `Contentlayer` (for blog and MDX support)
+- `Docusaurus` (for technical documentation)
+- `pnpm` workspaces
+- Deployed on `Vercel`
+
+---
+
+## 📂 STRUCTURE
+
+aivix-site/
+├── app/web/ # Next.js frontend (landing, blog, integrations)
+├── docs/ # MDX files for technical documentation
+├── blog/ # MDX blog posts
+├── public/ # Static assets and docs output (optional)
+├── .github/ # Issue/PR templates, workflows
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+
+---
+
+## ✍️ CONTENT RULES
+
+- Blog content uses MDX format in `/blog`
+- Docs content uses Docusaurus-compatible MDX in `/docs`
+- Use semantic and accessible HTML
+- Use responsive Tailwind components
+- Follow consistent structure and tone in docs and posts
+---
+
+## 🚀 ACTIONS YOU MAY TAKE
+
+- Add or improve blog posts
+- Add or improve documentation pages
+- Suggest new components, layout tweaks or improvements
+- Fix bugs, broken links or outdated content
+- Improve SEO, accessibility or performance
+- Assist with internationalization
+
+---
+
+## 🧙🏾‍♂️ AUTHOR INTENT
+
+This project is part of a greater open-source mission to make voice-driven AI agent creation more accessible and collaborative. It should be easy to fork, modify, deploy, and contribute to.
+
+Keep the codebase clean, open, well-documented, and community-friendly.
