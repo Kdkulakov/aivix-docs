@@ -11,9 +11,21 @@
           "mainDocId": "getting-started",
           "docs": [
             {
+              "id": "concepts",
+              "path": "/docs/concepts"
+            },
+            {
+              "id": "creating-first-agent",
+              "path": "/docs/creating-first-agent"
+            },
+            {
               "id": "getting-started",
               "path": "/docs/getting-started",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "n8n-integration",
+              "path": "/docs/n8n-integration"
             }
           ],
           "draftIds": [],

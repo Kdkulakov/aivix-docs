@@ -1,0 +1,18 @@
+{
+  "unversionedId": "creating-first-agent",
+  "id": "creating-first-agent",
+  "title": "Creating Your First Agent",
+  "description": "This page will be filled soon.",
+  "source": "@site/docs/creating-first-agent.md",
+  "sourceDirName": ".",
+  "slug": "/creating-first-agent",
+  "permalink": "/docs/creating-first-agent",
+  "draft": false,
+  "editUrl": "https://github.com/Kdkulakov/aivix-bench/edit/main/docs/creating-first-agent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

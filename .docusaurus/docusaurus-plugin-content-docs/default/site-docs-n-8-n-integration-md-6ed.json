@@ -1,0 +1,18 @@
+{
+  "unversionedId": "n8n-integration",
+  "id": "n8n-integration",
+  "title": "Integration with n8n",
+  "description": "This page will be filled soon.",
+  "source": "@site/docs/n8n-integration.md",
+  "sourceDirName": ".",
+  "slug": "/n8n-integration",
+  "permalink": "/docs/n8n-integration",
+  "draft": false,
+  "editUrl": "https://github.com/Kdkulakov/aivix-bench/edit/main/docs/n8n-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}
