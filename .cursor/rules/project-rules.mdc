@@ -34,7 +34,7 @@ Your tasks as an AI assistant include:
 
 ## 📂 STRUCTURE
 
-aivix-site/
+aivix-docs/
 ├── app/web/ # Next.js frontend (landing, blog, integrations)
 ├── docs/ # MDX files for technical documentation
 ├── blog/ # MDX blog posts
